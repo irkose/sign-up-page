@@ -8,10 +8,10 @@ Take screenshots of your signup sheet to post in the discussion.
 ## Prerequisites:
 
 #### Before you continue, ensure you have met the following requirements:
-- You have basic understanding of HTML and CSS
+- You have basic understanding of HTML, CSS and Bootstrap
 - You have installed the latest version of Visual Code 
 
-## Contributing to Amazon-alexa
+## Contributing to sign-up-page
 #### To contribute follow these steps:
 - Fork this repository.
 - Create a branch: git checkout -b <branch_name>.
