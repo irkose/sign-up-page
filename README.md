@@ -20,7 +20,10 @@ Take screenshots of your signup sheet to post in the discussion.
 - Create the pull request.
 - Alternatively see the GitHub documentation on creating a pull request.
 
+## Screenshot 
+
+![Screenshot](/Screenshot.png)
+
 ## Contact
 If you want to contact me you can reach me at irina.kose@gmail.com
 
-![Screenshot](/Screenshot.png)
