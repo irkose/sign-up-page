@@ -23,3 +23,4 @@ Take screenshots of your signup sheet to post in the discussion.
 ## Contact
 If you want to contact me you can reach me at irina.kose@gmail.com
 
+![Screenshot](/Screenshot.png)
